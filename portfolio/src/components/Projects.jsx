@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 import simonDiceImg from "../assets/simonDice.PNG";
-import tatetiImg from "../assets/tateti.png";
+import tatetiImg from "../assets/tateti.PNG";
 import pptImg from "../assets/piedraPapelTijera.PNG";
 import portfolioImg from "../assets/portfolio.PNG";
 
