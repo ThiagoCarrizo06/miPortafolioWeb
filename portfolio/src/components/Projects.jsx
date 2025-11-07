@@ -23,7 +23,6 @@ export default function Projects() {
     <section id="projects">
       <h2 className="animate">Proyectos</h2>
       <div className="projects-grid">
-        
         <div className="project-card animate">
           <img src={portfolioImg} alt="Portfolio Web" />
           <div className="content">
@@ -55,7 +54,6 @@ export default function Projects() {
             <p>Juego simple para practicar lógica con frontend en JS y Node.js.</p>
           </div>
         </div>
-
       </div>
     </section>
   );
