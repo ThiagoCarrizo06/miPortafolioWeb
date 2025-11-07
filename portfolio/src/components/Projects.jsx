@@ -1,8 +1,8 @@
 import { useEffect } from "react";
-import simonDiceImg from "../assets/simonDice.png";
+import simonDiceImg from "../assets/simonDice.PNG";
 import tatetiImg from "../assets/tateti.png";
-import pptImg from "../assets/piedraPapelTijera.png";
-import portfolioImg from "../assets/portfolio.png";
+import pptImg from "../assets/piedraPapelTijera.PNG";
+import portfolioImg from "../assets/portfolio.PNG";
 
 export default function Projects() {
   useEffect(() => {
